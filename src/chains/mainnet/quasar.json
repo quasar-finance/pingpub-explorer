@@ -2,9 +2,9 @@
     "chain_name": "quasar",
     "coingecko": "",
     "api": ["http://34.175.148.145:1317/"],
-    "rpc": ["http://334.175.148.14:26657"],
+    "rpc": ["http://34.175.148.145:26657"],
     "sdk_version": "0.45.6",
-    "coin_type": "118",
+    "coin_type": 118,
     "min_tx_fee": "8000",
     "addr_prefix": "quasar",
     "logo": "/logos/quasar.png",
@@ -12,7 +12,7 @@
       {
         "base": "uqsr",
         "symbol": "QSR",
-        "exponent": "6",
+        "exponent": 6,
         "coingecko_id": "",
         "logo": "/logos/quasar.png"
       }
