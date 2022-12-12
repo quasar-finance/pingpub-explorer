@@ -1,8 +1,8 @@
 {
     "chain_name": "quasar",
     "coingecko": "",
-    "api": ["http://rpc.test.qsr.network:1317"],
-    "rpc": ["http://rpc.test.qsr.network:26657"],
+    "api": ["http://rpc-test.qsr.network:1317"],
+    "rpc": ["http://rpc-test.qsr.network:26657"],
     "sdk_version": "0.45.6",
     "coin_type": 118,
     "min_tx_fee": "8000",
